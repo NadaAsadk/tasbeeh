@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 
 function addcounter(name){
 
@@ -14,6 +13,3 @@ function reset(name){
     document.getElementById(name).textContent=element;
 
 }
-=======
-
->>>>>>> 81072a870fe01b6010bf4638a2eb18d33c813c2d
